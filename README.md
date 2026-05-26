@@ -3,7 +3,7 @@
 <p align="center">
   Full Stack Software Engineer · Industrial Engineer
   <br/>
-  📍 Ankara, Türkiye — open to collaboration worldwide
+  📍 Ankara, Türkiye — open to remote collaboration worldwide
 </p>
 
 <p align="center">
@@ -55,10 +55,7 @@ The goal is to stay consistent throughout the year by building, improving, refac
 
 ## Tech Stack
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,swift,cpp,rust,cs" />
-</p>
+> Languages I work with are reflected in the GitHub stats below. This section highlights the frameworks, infrastructure, and tools I use to build with them.
 
 ### Frontend
 <p>
@@ -80,6 +77,7 @@ The goal is to stay consistent throughout the year by building, improving, refac
   <img src="https://skillicons.dev/icons?i=git,github,figma" />
 </p>
 
+---
 
 ## Selected Work
 
@@ -121,11 +119,11 @@ Experiments around privacy-preserving social account verification, where users c
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=hgunduzoglu&show_icons=true&hide_border=true&theme=tokyonight" 
+    src="https://github-readme-stats-sable-two-39.vercel.app/api?username=hgunduzoglu&show_icons=true&hide_border=true&theme=tokyonight" 
     height="165"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgunduzoglu&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" 
+    src="https://github-readme-stats-sable-two-39.vercel.app/api/top-langs/?username=hgunduzoglu&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" 
     height="165"
   />
 </p>
