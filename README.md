@@ -3,7 +3,7 @@
 <p align="center">
   Full Stack Software Engineer · Industrial Engineer
   <br/>
-  📍 Ankara, Türkiye — open to remote collaboration worldwide
+  📍 Ankara, Türkiye — open to collaboration worldwide
 </p>
 
 <p align="center">
