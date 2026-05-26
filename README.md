@@ -57,7 +57,7 @@ The goal is to stay consistent throughout the year by building, improving, refac
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,swift,cpp,rust" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,swift,cpp,rust,cs" />
 </p>
 
 ### Frontend
@@ -67,7 +67,7 @@ The goal is to stay consistent throughout the year by building, improving, refac
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel,spring" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel,spring,dotnet" />
 </p>
 
 ### Databases & Infrastructure
