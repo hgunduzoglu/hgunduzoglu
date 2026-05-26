@@ -56,36 +56,30 @@ The goal is to stay consistent throughout the year by building, improving, refac
 ## Tech Stack
 
 ### Languages
-
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,python,swift,cpp,rust" />
 </p>
 
 ### Frontend
-
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
 </p>
 
 ### Backend
-
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel, springboot" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel,spring" />
 </p>
 
 ### Databases & Infrastructure
-
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,redis,docker,nginx,linux,vercel,cloudflare, kubernetes" />
+  <img src="https://skillicons.dev/icons?i=postgres,redis,docker,kubernetes,nginx,linux,vercel,cloudflare" />
 </p>
 
 ### Tools
-
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,figma" />
 </p>
 
----
 
 ## Selected Work
 
