@@ -58,7 +58,7 @@ The goal is to stay consistent throughout the year by building, improving, refac
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,swift,sql,rust" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,swift,cpp,rust" />
 </p>
 
 ### Frontend
