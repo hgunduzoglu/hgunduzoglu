@@ -70,13 +70,13 @@ The goal is to stay consistent throughout the year by building, improving, refac
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel, springboot" />
 </p>
 
 ### Databases & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,redis,docker,nginx,linux,vercel,cloudflare" />
+  <img src="https://skillicons.dev/icons?i=postgres,redis,docker,nginx,linux,vercel,cloudflare, kubernetes" />
 </p>
 
 ### Tools
