@@ -55,11 +55,14 @@ The goal is to stay consistent throughout the year by building, improving, refac
 
 ## ⚡ Tech Stack
 
-> Languages I work with are reflected in the GitHub stats below. This section highlights the frameworks, infrastructure, and tools I use to build with them.
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,dart,java,php,rust,c,cpp" />
+</p>
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,flutter" />
 </p>
 
 ### Backend
