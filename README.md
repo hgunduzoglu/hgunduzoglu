@@ -123,7 +123,7 @@ Experiments around privacy-preserving social account verification, where users c
     height="165"
   />
   <img 
-    src="https://github-readme-stats-sable-two-39.vercel.app/api/top-langs/?username=hgunduzoglu&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&hide=html,css,scss" 
+    src="https://github-readme-stats-sable-two-39.vercel.app/api/top-langs/?username=hgunduzoglu&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&hide=html,css,scss&size_weight=0.5&count_weight=1" 
     height="165"
   />
 </p>
