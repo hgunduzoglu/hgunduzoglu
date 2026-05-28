@@ -22,9 +22,9 @@
   </a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:b21f1f,100:fdbb2d&height=4&section=footer" width="100%"/>
 
-## About Me
+## 👨‍💻 About Me
 
 I am a full stack software engineer with a degree in **Industrial Engineering** — a background that shapes how I approach software: with a focus on systems, processes, optimization, and measurable outcomes.
 
@@ -32,7 +32,7 @@ I enjoy working across the full product lifecycle: designing architecture, build
 
 I am especially interested in backend architecture, SaaS products, distributed systems, applied AI, and privacy-aware software design. I also enjoy exploring cryptography-related concepts and understanding how systems work under the hood.
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:b21f1f,100:fdbb2d&height=4&section=footer" width="100%"/>
 
 ## What I Work On
 
@@ -43,7 +43,7 @@ I am especially interested in backend architecture, SaaS products, distributed s
 - Forecasting, optimization, and decision support systems — where Industrial Engineering meets software
 - Privacy-aware product design and verification protocols
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:b21f1f,100:fdbb2d&height=4&section=footer" width="100%"/>
 
 ## 2026 GitHub Contribution Challenge
 
@@ -51,9 +51,9 @@ I am taking on a **365/365 GitHub contribution challenge in 2026**.
 
 The goal is to stay consistent throughout the year by building, improving, refactoring, documenting, and experimenting with different software projects every single day — focusing on quality of work, not commit count.
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:b21f1f,100:fdbb2d&height=4&section=footer" width="100%"/>
 
-## Tech Stack
+## ⚡ Tech Stack
 
 > Languages I work with are reflected in the GitHub stats below. This section highlights the frameworks, infrastructure, and tools I use to build with them.
 
@@ -77,9 +77,9 @@ The goal is to stay consistent throughout the year by building, improving, refac
   <img src="https://skillicons.dev/icons?i=git,github,figma" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:b21f1f,100:fdbb2d&height=4&section=footer" width="100%"/>
 
-## Selected Work
+## 🚀 Selected Work
 
 ### Kalis / Clinix
 
@@ -113,13 +113,39 @@ Experiments around privacy-preserving social account verification, where users c
 
 > Most of my recent work lives in private repositories. I'm happy to walk through architecture decisions, trade-offs, and code in conversation.
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:b21f1f,100:fdbb2d&height=4&section=footer" width="100%"/>
+
+## 🌱 Community & Open Contributions
+
+### [metu-non.tech](https://metu-non.tech)
+
+A tool I built from scratch that lets METU students browse all **Non-Technical Elective (NTE)** courses in one place, instead of digging through scattered department pages. NTEs are a specific course category at METU, and discovering options used to be a recurring pain — this site centralizes them and makes selection straightforward.
+
+**Role:** Creator and maintainer
+
 ---
 
-## GitHub Overview
+### [robotdegilim.xyz](https://robotdegilim.xyz)
+
+A schedule-building tool that helps METU students plan their course selection before registration. I joined as a maintainer, contributing improvements, fixes, and new features to make the planning experience smoother for thousands of students each semester.
+
+**Role:** Maintainer and contributor
+
+---
+
+### METU Istanbul Alumni Association (ODTÜMİST)
+
+The association's official website was outdated and constrained by WordPress, with no off-the-shelf theme matching the look they wanted. I adapted a JavaScript reference theme into a custom WordPress theme, restructuring content for events, announcements, and alumni information.
+
+**Role:** Theme adaptation, WordPress customization, content structure redesign
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:b21f1f,100:fdbb2d&height=4&section=footer" width="100%"/>
+
+## 📊 GitHub Overview
 
 <p align="center">
   <img 
-    src="https://github-readme-stats-sable-two-39.vercel.app/api?username=hgunduzoglu&show_icons=true&hide_border=true&theme=tokyonight" 
+    src="https://github-readme-stats-sable-two-39.vercel.app/api?username=hgunduzoglu&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" 
     height="165"
   />
   <img 
@@ -135,7 +161,21 @@ Experiments around privacy-preserving social account verification, where users c
   />
 </p>
 
----
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=hgunduzoglu&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity"
+    width="95%"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=hgunduzoglu&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10"
+    width="95%"
+  />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:b21f1f,100:fdbb2d&height=4&section=footer" width="100%"/>
 
 <p align="center">
   <i>Building secure, scalable, and product-oriented software — with an engineer's mindset for systems and outcomes.</i>
