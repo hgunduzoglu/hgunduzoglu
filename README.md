@@ -64,7 +64,7 @@ The goal is to stay consistent throughout the year by building, improving, refac
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel,spring,dotnet" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel,spring,flask" />
 </p>
 
 ### Databases & Infrastructure
