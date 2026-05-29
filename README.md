@@ -171,12 +171,7 @@ The association's official website was outdated and constrained by WordPress, wi
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=hgunduzoglu&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10"
-    width="95%"
-  />
-</p>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:b21f1f,100:fdbb2d&height=4&section=footer" width="100%"/>
 
