@@ -159,7 +159,7 @@ The association's official website was outdated and constrained by WordPress, wi
 
 <p align="center">
   <img 
-  src="https://streak-stats.demolab.com?user=hgunduzoglu&hide_border=true&theme=tokyonight"
+  src="https://streak-stats.demolab.com?user=hgunduzoglu&theme=tokyonight"
   height="165"
 />
 </p>
