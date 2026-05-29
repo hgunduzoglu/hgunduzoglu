@@ -159,9 +159,9 @@ The association's official website was outdated and constrained by WordPress, wi
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=hgunduzoglu&hide_border=true&theme=tokyonight"
-    height="165"
-  />
+  src="https://nirzak-streak-stats.vercel.app/?user=hgunduzoglu&theme=tokyonight&hide_border=true"
+  height="165"
+/>
 </p>
 
 <p align="center">
