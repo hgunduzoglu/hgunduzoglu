@@ -1,14 +1,9 @@
 <h1 align="center">Hi, I'm Hüsamettin Gündüzoğlu 👋</h1>
 
 <p align="center">
-  Backend-Oriented Full Stack Software Engineer · Product Builder · Industrial Engineering Background
+  Full Stack Software Engineer · Product Builder · Industrial Engineering Graduate
 </p>
 
-<p align="center">
-  <a href="https://hgunduzoglu.dev">
-    <img src="https://img.shields.io/badge/Portfolio-hgunduzoglu.dev-1a2a6c?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio — hgunduzoglu.dev" />
-  </a>
-</p>
 
 <p align="center">
   <a href="mailto:gunduzoglu.husamettin@gmail.com">
