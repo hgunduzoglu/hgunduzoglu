@@ -30,67 +30,11 @@
 
 ## About
 
-Full stack software engineer with an Industrial Engineering background. I build products end-to-end — backend architecture, data modeling, interfaces, deployment, and iteration based on real usage — with a focus on **backend systems, multi-tenant SaaS, distributed systems, and privacy-aware software design**.
+I am a backend-oriented full stack software engineer with an Industrial Engineering background.
 
-**Focus areas:** API design · multi-tenant SaaS · PostgreSQL modeling · caching & queues · auth / RBAC / audit logging · forecasting & optimization · privacy-preserving verification
+I like building products end-to-end: understanding the problem, designing the system, modeling the data, building the interface, deploying the product, and improving it based on real usage. My engineering background shapes how I think about software: systems, workflows, constraints, trade-offs, and outcomes.
 
----
-
-## Selected Work
-
-### Kalis / Clinix
-
-A SaaS platform for appointment-based businesses and psychology clinics, covering appointment management, customer records, staff roles, payments, audit logging, and AI-assisted operational workflows.
-
-I designed the system as a **modular monolith** instead of starting directly with microservices. Since the product was in an early-stage customer validation phase, this architecture made it easier to move fast, keep deployment simple, preserve transactional consistency, and avoid unnecessary operational overhead.
-
-At the same time, I structured the application around clear domain boundaries such as authentication, tenant management, appointments, customers, staff roles, payments, and audit logs. This keeps the system maintainable today while leaving the option open to extract selected modules into separate services later if scale, team structure, or operational needs require it.
-
-Multi-tenancy and RBAC were central parts of the architecture. Because the platform serves multiple businesses within the same system, I focused on tenant isolation, role-based permissions, secure access control, and auditability from the beginning.
-
-**Focus:** Modular monolith, multi-tenant SaaS, RBAC, PostgreSQL, secure workflows, scalable domain boundaries
-
----
-
-### Consensus
-
-A survey-based social platform focused on anonymous participation, demographic insights, voting integrity, regional heatmaps, and public discussion around daily questions.
-
-I built Consensus with a **microservice-oriented architecture**. For the initial product scope, this was more complex than strictly necessary, but it was an intentional technical decision. The goal was to reduce future architectural debt while also gaining hands-on experience with service boundaries, independent deployments, inter-service communication, and production-oriented backend design.
-
-The system was designed around separate responsibilities such as identity, voting, questions, comments, notifications, and analytics. This helped me think more clearly about ownership of data, scaling paths, and how different parts of a social product can evolve independently.
-
-A key challenge was balancing anonymous participation with voting integrity. I worked on mechanisms such as device-level uniqueness, demographic segmentation, and privacy-aware participation flows so users could vote anonymously while the system could still protect against duplicate or manipulated votes.
-
-**Focus:** Microservices, anonymous voting, backend architecture, voting integrity, privacy-aware product design
-
----
-
-### Warehouse Decision Support System
-
-A data-driven decision support system for e-commerce warehouse operations, including demand forecasting, ABC classification, replenishment planning, and operational optimization.
-
-This project combined my Industrial Engineering background with software development. I worked on forecasting demand, classifying products by operational importance, and supporting inventory and replenishment decisions through data-driven models.
-
-The system was designed to support operational decision-making rather than only produce predictions. This made the project especially valuable from a systems perspective: the goal was to connect forecasting outputs with warehouse processes, inventory priorities, and practical planning constraints.
-
-**Focus:** Forecasting, operations research, inventory planning, decision support systems
-
----
-
-### Magna
-
-A zk-based verification layer for privacy-preserving digital trust.
-
-Magna enables users to prove selected claims, ownership, or eligibility without exposing unnecessary private data. Instead of requiring applications to directly access sensitive information, Magna explores how zero-knowledge proofs can act as a verification layer between users and platforms.
-
-I designed the project around a simple idea: verification should be possible without over-disclosure. The architecture focuses on separating the claim, proof generation, verification flow, and application integration layers so that the system can be extended to different use cases over time.
-
-This project helped me work more deeply with zero-knowledge concepts from a product and infrastructure perspective, not only as a cryptographic primitive but as a developer-facing verification system.
-
-**Focus:** Zero-knowledge proofs, privacy-preserving verification, trust infrastructure, developer-facing protocols
-
-> Most of my recent work lives in private repositories. I can discuss architecture decisions, trade-offs, and implementation details in conversation.
+Recently, I have been working on SaaS products, backend systems, data-driven applications, and privacy-aware software.
 
 ---
 
