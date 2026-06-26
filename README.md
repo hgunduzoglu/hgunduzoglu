@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Hüsam 👋</h1>
 
 <p align="center">
-  Full Stack Software Engineer · Product Builder · Industrial Engineering Graduate
+  Full Stack Software Engineer · Product Builder · Industrial Engineering Graduate · Open Source Contributor
 </p>
 
 
