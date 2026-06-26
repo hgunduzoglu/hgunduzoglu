@@ -44,13 +44,13 @@ My Industrial Engineering background helps me approach software through systems 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,spring,flask,laravel,prisma&theme=dark" alt="Node.js, NestJS, Express, Spring, Flask, Laravel, Prisma" />
+  <img src="https://skillicons.dev/icons?i=nestjs,express,spring,flask,laravel&theme=dark" alt="NestJS, Express, Spring, Flask, Laravel" />
 </p>
 
 ### Frontend & Mobile
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,html,css&theme=dark" alt="React, Next.js, Tailwind CSS, Flutter, HTML, CSS" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter&theme=dark" alt="React, Next.js, Tailwind CSS, Flutter" />
 </p>
 
 ### Databases
@@ -62,36 +62,14 @@ My Industrial Engineering background helps me approach software through systems 
 ### Platform & Operations
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,aws,vercel,cloudflare,githubactions,linux,bash,kafka,prometheus,grafana&theme=dark" alt="Docker, Kubernetes, Nginx, AWS, Vercel, Cloudflare, GitHub Actions, Linux, Bash, Kafka, Prometheus, Grafana" />
-</p>
-
-### Data, AI & Optimization
-
-<p>
-  <img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow&theme=dark" alt="scikit-learn, PyTorch, TensorFlow" />
-</p>
-
-### Blockchain & Privacy
-
-<p>
-  <img src="https://skillicons.dev/icons?i=solidity&theme=dark" alt="Solidity" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,aws,azure,vercel,cloudflare,githubactions,linux,bash,kafka,prometheus,grafana&theme=dark" alt="Docker, Kubernetes, Nginx, AWS, Azure, Vercel, Cloudflare, GitHub Actions, Linux, Bash, Kafka, Prometheus, Grafana" />
 </p>
 
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark" alt="Git, GitHub, VS Code, Figma, Postman" />
+  <img src="https://skillicons.dev/icons?i=git,figma,postman&theme=dark" alt="Git, Figma, Postman" />
 </p>
-
----
-
-## Community & Open Work
-
-**[metu-non.tech](https://metu-non.tech)** — A tool I built from scratch that lets METU students browse all Non-Technical Elective courses in one place instead of digging through scattered department pages. *Creator and maintainer.*
-
-**[robotdegilim.xyz](https://robotdegilim.xyz)** — A schedule-building tool that helps METU students plan course selection before registration. *Maintainer and contributor.*
-
-**METU Istanbul Alumni Association** — Adapted a JavaScript reference theme into a custom WordPress theme for the association's official site, restructuring content for events, announcements, and alumni info. *WordPress customization and content redesign.*
 
 ---
 
