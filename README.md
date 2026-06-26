@@ -27,9 +27,9 @@
 
 I am a backend-oriented full stack software engineer with an Industrial Engineering background.
 
-I like building products end-to-end: understanding the problem, designing the system, modeling the data, building the interface, deploying the product, and improving it based on real usage. My engineering background shapes how I think about software: systems, workflows, constraints, trade-offs, and outcomes.
+I build web and mobile products end-to-end, from shaping the product idea and designing the system architecture to implementing backend services, user interfaces, and deployment workflows. My strongest focus is on backend architecture, APIs, SaaS platforms, and production-ready systems.
 
-Recently, I have been working on SaaS products, backend systems, data-driven applications, and privacy-aware software.
+My Industrial Engineering background helps me approach software through systems thinking, trade-offs, process design, and practical constraints. I care about building software that is reliable, maintainable, and useful in real-world workflows.
 
 ---
 
