@@ -105,8 +105,11 @@ A **365/365 contribution challenge for 2026** — staying consistent by building
 ---
 
 <p align="center">
-  Open to backend &amp; full-stack engineering opportunities · <a href="https://hgunduzoglu.dev">hgunduzoglu.dev</a>
+  Open to backend &amp; full-stack engineering opportunities · 
+  <a href="https://hgunduzoglu.dev">hgunduzoglu.dev</a> · 
+  <a href="https://github.com/sponsors/hgunduzoglu">Sponsor my work</a>
 </p>
+
 
 <p align="center">
   <i>Building secure, scalable, and product-oriented software — with an engineer's mindset for systems and outcomes.</i>
