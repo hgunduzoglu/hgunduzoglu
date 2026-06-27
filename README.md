@@ -78,21 +78,33 @@ My Industrial Engineering background helps me approach software through systems 
 A **365/365 contribution challenge for 2026** — staying consistent by building, refactoring, documenting, and experimenting throughout the year. The goal is quality of work, not commit count.
 
 ---
-
 ## GitHub Overview
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats-sable-two-39.vercel.app/api?username=hgunduzoglu&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" 
-    height="165"
-    alt="Hüsamettin's GitHub statistics"
-  />
-  <img 
-    src="https://github-readme-stats-sable-two-39.vercel.app/api/top-langs/?username=hgunduzoglu&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&hide=html,css,scss" 
-    height="165"
-    alt="Most used languages"
-  />
-</p>
+<table>
+  <tr>
+    <td align="left" width="33%">
+      <img
+        src="https://github-readme-stats-sable-two-39.vercel.app/api?username=hgunduzoglu&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"
+        width="100%"
+        alt="Hüsamettin's GitHub statistics"
+      />
+    </td>
+    <td align="center" width="33%">
+      <img
+        src="https://github-readme-stats-sable-two-39.vercel.app/api/top-langs/?username=hgunduzoglu&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&hide=html,css,scss"
+        width="100%"
+        alt="Most used languages"
+      />
+    </td>
+    <td align="right" width="33%">
+      <img
+        src="https://streak-stats.demolab.com?user=hgunduzoglu&theme=tokyonight&hide_border=true"
+        width="100%"
+        alt="GitHub contribution streak"
+      />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img 
@@ -102,7 +114,7 @@ A **365/365 contribution challenge for 2026** — staying consistent by building
   />
 </p>
 
----
+
 
 <p align="center">
   Open to backend &amp; full-stack engineering opportunities · 
